@@ -20,6 +20,6 @@
     }
   },
   "include": [
-    "/Users/emmanuelreyes/Documents/GitHub/typescript/react-typescript-tutorial/src/01-introduction/03-navigating-jsx-types.problem.tsx"
+    "/Users/emmanuelreyes/Documents/GitHub/typescript/react-typescript-tutorial/src/02-components/05-typing-components-as-functions.problem.tsx"
   ]
 }
