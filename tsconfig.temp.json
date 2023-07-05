@@ -20,6 +20,6 @@
     }
   },
   "include": [
-    "/Users/emmanuelreyes/Documents/GitHub/typescript/react-typescript-tutorial/src/03-hooks/13-use-state-excess-properties.problem.tsx"
+    "/Users/emmanuelreyes/Documents/GitHub/typescript/react-typescript-tutorial/src/03-hooks/21-use-reducer.problem.ts"
   ]
 }
